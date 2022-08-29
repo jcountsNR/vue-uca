@@ -1,4 +1,4 @@
-# uca
+# project
 
 ## Project setup
 ```
